@@ -1,0 +1,163 @@
+2023-01-24 19:32:11 [@DESKTOP-2QEQUKR]
+CSRF check failed for User ID:  at /front/login.php2023-01-31 15:23:35 [2@DESKTOP-2QEQUKR]
+CSRF check failed for User ID: 2 at /index.php2023-02-16 00:37:55 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access or perform an action on /proyectos/glpiColtrans/front/slm.form.php?id=5 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6309 displayRightError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6399 displayAccessDeniedPage()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/slm.form.php:96 displayFullPageForItem()
+2023-02-16 22:42:39 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access or perform an action on /proyectos/glpiColtrans/front/slm.form.php?id=3 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6309 displayRightError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6399 displayAccessDeniedPage()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/slm.form.php:96 displayFullPageForItem()
+2023-02-18 00:33:11 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access a non-existent item /proyectos/glpiColtrans/front/user.form.php?id=645. Additional information: The item could not be found in the database
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6285 displayNotFoundError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6394 displayItemNotFoundPage()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/user.form.php:241 displayFullPageForItem()
+2023-02-19 22:22:38 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access or perform an action on /proyectos/glpiColtrans/front/slm.form.php?id=6 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6309 displayRightError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6399 displayAccessDeniedPage()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/slm.form.php:96 displayFullPageForItem()
+2023-02-19 22:23:09 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access or perform an action on /proyectos/glpiColtrans/front/slm.form.php?id=2 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6309 displayRightError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6399 displayAccessDeniedPage()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/slm.form.php:96 displayFullPageForItem()
+2023-02-20 00:12:31 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access or perform an action on /proyectos/glpiColtrans/front/ticket.form.php?id=1 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6309 displayRightError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6399 displayAccessDeniedPage()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/ticket.form.php:259 displayFullPageForItem()
+2023-02-20 00:15:59 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access or perform an action on /proyectos/glpiColtrans/front/entity.form.php?id=4 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6309 displayRightError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6399 displayAccessDeniedPage()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/dropdown.common.form.php:176 displayFullPageForItem()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/entity.form.php:52 include()
+2023-02-20 00:16:52 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access or perform an action on /proyectos/glpiColtrans/front/entity.form.php?id=0 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6309 displayRightError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6399 displayAccessDeniedPage()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/dropdown.common.form.php:176 displayFullPageForItem()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/entity.form.php:52 include()
+2023-02-20 00:38:45 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access or perform an action on /proyectos/glpiColtrans/front/entity.form.php?id=0 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6309 displayRightError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6399 displayAccessDeniedPage()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/dropdown.common.form.php:176 displayFullPageForItem()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/entity.form.php:52 include()
+2023-02-20 00:39:15 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access or perform an action on /proyectos/glpiColtrans/front/entity.form.php?id=1 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6309 displayRightError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6399 displayAccessDeniedPage()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/dropdown.common.form.php:176 displayFullPageForItem()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/entity.form.php:52 include()
+2023-02-20 00:41:17 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access or perform an action on /proyectos/glpiColtrans/front/ticket.form.php?id=2 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6309 displayRightError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:6399 displayAccessDeniedPage()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/ticket.form.php:259 displayFullPageForItem()
+2023-02-20 09:39:41 [@host15.latinoamericahosting.com]
+CSRF check failed for User ID:  at /proyectos/glpiColtrans/front/login.php2023-02-27 15:54:26 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access or perform an action on /proyectos/glpiColtrans/front/user.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: Group_User ID: -1
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:3001 displayRightError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/user.form.php:138 check()
+2023-02-27 15:56:14 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access or perform an action on /proyectos/glpiColtrans/front/group_user.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: Group_User ID: -1
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:3001 displayRightError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/group_user.form.php:49 check()
+2023-02-27 16:00:20 [2@host15.latinoamericahosting.com]
+User ID: 2 tried to access or perform an action on /proyectos/glpiColtrans/front/group_user.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: Group_User ID: -1
+	Stack Trace:
+		/home/appdesar/public_html/proyectos/glpiColtrans/src/CommonDBTM.php:3001 displayRightError()
+		/home/appdesar/public_html/proyectos/glpiColtrans/front/group_user.form.php:49 check()
+2023-03-02 20:26:17 [2@HOKMA-WS002]
+User ID: 2 tried to access or perform an action on /front/user.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: Group_User ID: -1
+	Stack Trace:
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonDBTM.php:3001 displayRightError()
+		C:\xampp\htdocs\coltrans\glpiColtrans\front\user.form.php:138 check()
+2023-03-02 21:36:11 [823@HOKMA-WS002]
+CSRF check failed for User ID: 823 at /front/tracking.injector.php2023-03-03 21:30:22 [823@HOKMA-WS002]
+CSRF check failed for User ID: 823 at /ajax/getDropdownValue.php2023-03-03 22:49:18 [823@HOKMA-WS002]
+CSRF check failed for User ID: 823 at /ajax/getDropdownValue.php2023-03-03 22:49:20 [823@HOKMA-WS002]
+CSRF check failed for User ID: 823 at /ajax/getDropdownValue.php2023-03-06 15:54:29 [1132@HOKMA-WS002]
+User ID: 1132 tried to access or perform an action on /front/itilfollowup.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: ITILFollowup ID: -1
+	Stack Trace:
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonDBTM.php:3001 displayRightError()
+		C:\xampp\htdocs\coltrans\glpiColtrans\front\itilfollowup.form.php:54 check()
+2023-03-06 16:00:33 [1132@HOKMA-WS002]
+User ID: 1132 tried to access or perform an action on /front/itilfollowup.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: ITILFollowup ID: -1
+	Stack Trace:
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonDBTM.php:3001 displayRightError()
+		C:\xampp\htdocs\coltrans\glpiColtrans\front\itilfollowup.form.php:54 check()
+2023-03-06 16:01:10 [1132@HOKMA-WS002]
+CSRF check failed for User ID: 1132 at /front/itilfollowup.form.php2023-03-06 16:01:36 [1132@HOKMA-WS002]
+User ID: 1132 tried to access or perform an action on /front/itilfollowup.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: ITILFollowup ID: -1
+	Stack Trace:
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonDBTM.php:3001 displayRightError()
+		C:\xampp\htdocs\coltrans\glpiColtrans\front\itilfollowup.form.php:54 check()
+2023-03-06 16:03:59 [1132@HOKMA-WS002]
+CSRF check failed for User ID: 1132 at /front/itilfollowup.form.php2023-03-06 16:04:38 [1132@HOKMA-WS002]
+User ID: 1132 tried to access or perform an action on /ajax/common.tabs.php?_target=/front/tickettemplate.form.php&_itemtype=TicketTemplate&_glpi_tab=-1&id=1&formoptions=%20data-track-changes%3Dtrue with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: Ticket ID: -1
+	Stack Trace:
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonDBTM.php:3001 displayRightError()
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\Ticket.php:4264 check()
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\ITILTemplate.php:516 showForm()
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\TicketTemplate.php:141 showCentralPreview()
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonGLPI.php:689 displayTabContentForItem()
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonGLPI.php:653 displayStandardTab()
+		C:\xampp\htdocs\coltrans\glpiColtrans\ajax\common.tabs.php:113 displayStandardTab()
+2023-03-06 16:05:14 [1132@HOKMA-WS002]
+User ID: 1132 tried to access or perform an action on /front/tickettemplate.form.php?id=-1&formoptions=%20data-track-changes%3Dtrue with insufficient rights. Additional information: Missing CREATE right. Cannot view the new item form.
+	Stack Trace:
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonDBTM.php:6309 displayRightError()
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonDBTM.php:6385 displayAccessDeniedPage()
+		C:\xampp\htdocs\coltrans\glpiColtrans\front\dropdown.common.form.php:176 displayFullPageForItem()
+		C:\xampp\htdocs\coltrans\glpiColtrans\front\tickettemplate.form.php:39 include()
+2023-03-06 16:05:30 [1132@HOKMA-WS002]
+User ID: 1132 tried to access or perform an action on /ajax/common.tabs.php?_target=/front/tickettemplate.form.php&_itemtype=TicketTemplate&_glpi_tab=-1&id=2&formoptions=%20data-track-changes%3Dtrue with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: Ticket ID: -1
+	Stack Trace:
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonDBTM.php:3001 displayRightError()
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\Ticket.php:4264 check()
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\ITILTemplate.php:516 showForm()
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\TicketTemplate.php:141 showCentralPreview()
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonGLPI.php:689 displayTabContentForItem()
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonGLPI.php:653 displayStandardTab()
+		C:\xampp\htdocs\coltrans\glpiColtrans\ajax\common.tabs.php:113 displayStandardTab()
+2023-03-06 16:19:04 [1348@HOKMA-WS002]
+CSRF check failed for User ID: 1348 at /front/login.php2023-03-07 22:00:58 [1307@HOKMA-WS002]
+CSRF check failed for User ID: 1307 at /front/tracking.injector.php2023-03-09 23:40:50 [2@HOKMA-WS002]
+CSRF check failed for User ID: 2 at /front/tracking.injector.php2023-03-09 23:52:45 [1307@HOKMA-WS002]
+CSRF check failed for User ID: 1307 at /front/tracking.injector.php2023-03-09 23:58:34 [1307@HOKMA-WS002]
+CSRF check failed for User ID: 1307 at /front/tracking.injector.php2023-03-10 00:56:20 [@HOKMA-WS002]
+CSRF check failed for User ID:  at /front/tracking.injector.php2023-03-13 13:55:55 [1307@HOKMA-WS002]
+CSRF check failed for User ID: 1307 at /front/tracking.injector.php2023-03-16 21:55:53 [2@HOKMA-WS002]
+CSRF check failed for User ID: 2 at /front/massiveaction.php2023-03-16 21:55:57 [2@HOKMA-WS002]
+CSRF check failed for User ID: 2 at /front/massiveaction.php2023-07-04 18:21:51 [2@HOKMA-WS002]
+CSRF check failed for User ID: 2 at /front/massiveaction.php2023-07-04 19:20:46 [2@HOKMA-WS002]
+User ID: 2 tried to access or perform an action on /front/group_user.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: Group_User ID: -1
+	Stack Trace:
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonDBTM.php:3001 displayRightError()
+		C:\xampp\htdocs\coltrans\glpiColtrans\front\group_user.form.php:49 check()
+2023-07-04 19:28:38 [2@HOKMA-WS002]
+User ID: 2 tried to access or perform an action on /front/group_user.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: Group_User ID: -1
+	Stack Trace:
+		C:\xampp\htdocs\coltrans\glpiColtrans\src\CommonDBTM.php:3001 displayRightError()
+		C:\xampp\htdocs\coltrans\glpiColtrans\front\group_user.form.php:49 check()
+2023-08-10 00:02:19 [2@HOKMA-WS002]
+CSRF check failed for User ID: 2 at /front/login.php
